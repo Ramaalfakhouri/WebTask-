@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    max-width: 900px;
+    min-width: 500px;
+}
+#programming
+{
+    background-color: pink;
+    border: 4px palevioletred;
+    max-width: 60%;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    max-width: 100%;
+    color:black;
+    text-decoration: underline;
+    border: 4px purple;
+    padding: 10px;
+    margin-top: 10px;
+}
+#first-p
+{
+    color:black;
+    font-weight: 500px;
+
+}
+ul{
+    margin: 20px;
+
+}
+span
+{
+    font-weight: bold;
+    color: black;
+}
+#second-p
+{
+    margin: 15px;
+    margin-top: 10px;
+}
